@@ -147,7 +147,7 @@ img::-moz-selection {
     -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
     transition: padding-top 0.3s, padding-bottom 0.3s;
     border: none;
-    background-color: transparent;
+    background-color: black;
   }
   #mainNav .navbar-brand {
     font-size: 1.75em;
@@ -172,7 +172,8 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/header-bg.jpg");
+  /*background-image: url("../img/grubsoft.png");*/
+  background-image: url("../img/snake.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
